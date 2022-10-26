@@ -1,6 +1,25 @@
 {
+  "name": "team-member-wepage-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikPratr/team-member-wepage-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikPratr/team-member-wepage-generator/issues"
+  },
+  "homepage": "https://github.com/NikPratr/team-member-wepage-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.2.1"
+    "inquirer-loop": "^0.3.0",
+    "jest": "^29.2.2"
   }
 }
